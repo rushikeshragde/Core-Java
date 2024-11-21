@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.container
+{
+    background-color: rgb(154, 142, 142);
+    width: 1200px;
+    height: 650px;
+    border: 6px solid black;
+    margin-left: 160px;
+}
+#flower
+{
+    width: 700px;
+    height: 400px;
+    border: 2px solid black;
+    margin-left: 260px;
+    margin-top: 50px;
+}
