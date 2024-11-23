@@ -1,0 +1,31 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.container
+{
+    background-color: gray;
+    width: 1440px;
+    height: 700px;
+    margin: auto;
+}
+.container .header
+{
+    background-color: aliceblue;
+    width: 200px;
+    height: 200px;
+    position:relative;
+    margin-left: 300px;
+    margin-top:60px
+
+}
+.header .child 
+{
+    font-size: 190%;
+    position: absolute;
+    left:100%;
+    top: 160%;
+    
+}
